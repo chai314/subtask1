@@ -1,2 +1,4 @@
 # subtask1
-coding week
+Chaitanya Chhabra
+220123012
+Math and Comp
